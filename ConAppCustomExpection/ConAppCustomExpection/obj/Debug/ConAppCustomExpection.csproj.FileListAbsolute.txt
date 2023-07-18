@@ -1,0 +1,8 @@
+D:\simplilearn\day-7\ConAppCustomExpection\ConAppCustomExpection\bin\Debug\ConAppCustomExpection.exe.config
+D:\simplilearn\day-7\ConAppCustomExpection\ConAppCustomExpection\bin\Debug\ConAppCustomExpection.exe
+D:\simplilearn\day-7\ConAppCustomExpection\ConAppCustomExpection\bin\Debug\ConAppCustomExpection.pdb
+D:\simplilearn\day-7\ConAppCustomExpection\ConAppCustomExpection\obj\Debug\ConAppCustomExpection.csproj.AssemblyReference.cache
+D:\simplilearn\day-7\ConAppCustomExpection\ConAppCustomExpection\obj\Debug\ConAppCustomExpection.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-7\ConAppCustomExpection\ConAppCustomExpection\obj\Debug\ConAppCustomExpection.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-7\ConAppCustomExpection\ConAppCustomExpection\obj\Debug\ConAppCustomExpection.exe
+D:\simplilearn\day-7\ConAppCustomExpection\ConAppCustomExpection\obj\Debug\ConAppCustomExpection.pdb

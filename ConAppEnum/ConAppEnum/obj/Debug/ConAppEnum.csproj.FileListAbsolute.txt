@@ -1,0 +1,8 @@
+D:\simplilearn\day-7\ConAppEnum\ConAppEnum\bin\Debug\ConAppEnum.exe.config
+D:\simplilearn\day-7\ConAppEnum\ConAppEnum\bin\Debug\ConAppEnum.exe
+D:\simplilearn\day-7\ConAppEnum\ConAppEnum\bin\Debug\ConAppEnum.pdb
+D:\simplilearn\day-7\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.csproj.AssemblyReference.cache
+D:\simplilearn\day-7\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-7\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-7\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.exe
+D:\simplilearn\day-7\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.pdb

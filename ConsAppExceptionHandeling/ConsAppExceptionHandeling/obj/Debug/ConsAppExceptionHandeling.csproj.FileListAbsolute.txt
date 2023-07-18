@@ -1,0 +1,8 @@
+D:\simplilearn\day-7\ConsAppExceptionHandeling\ConsAppExceptionHandeling\bin\Debug\ConsAppExceptionHandeling.exe.config
+D:\simplilearn\day-7\ConsAppExceptionHandeling\ConsAppExceptionHandeling\bin\Debug\ConsAppExceptionHandeling.exe
+D:\simplilearn\day-7\ConsAppExceptionHandeling\ConsAppExceptionHandeling\bin\Debug\ConsAppExceptionHandeling.pdb
+D:\simplilearn\day-7\ConsAppExceptionHandeling\ConsAppExceptionHandeling\obj\Debug\ConsAppExceptionHandeling.csproj.AssemblyReference.cache
+D:\simplilearn\day-7\ConsAppExceptionHandeling\ConsAppExceptionHandeling\obj\Debug\ConsAppExceptionHandeling.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-7\ConsAppExceptionHandeling\ConsAppExceptionHandeling\obj\Debug\ConsAppExceptionHandeling.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-7\ConsAppExceptionHandeling\ConsAppExceptionHandeling\obj\Debug\ConsAppExceptionHandeling.exe
+D:\simplilearn\day-7\ConsAppExceptionHandeling\ConsAppExceptionHandeling\obj\Debug\ConsAppExceptionHandeling.pdb
